@@ -18,6 +18,7 @@ atuando na construção de soluções **web modernas**, **APIs**, **bancos de da
 ![React](https://img.shields.io/badge/React-E10600?style=for-the-badge&logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/Angular-E10600?style=for-the-badge&logo=angular&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-E10600?style=for-the-badge&logo=git&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-E10600?style=for-the-badge&logo=typescript&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E10600?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-E10600?style=for-the-badge&logo=python&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-E10600?style=for-the-badge&logo=openjdk&logoColor=000)
