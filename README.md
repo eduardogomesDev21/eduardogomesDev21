@@ -15,8 +15,8 @@ atuando na construção de soluções **web modernas**, **APIs**, **bancos de da
 
 ## 🚀 Tecnologias e Ferramentas
 
-![React](https://img.shields.io/badge/React-FF3030?style=for-the-badge&logo=react&logoColor=000)
-![Angular](https://img.shields.io/badge/Angular-FF3030?style=for-the-badge&logo=angular&logoColor=000)
+![React](https://img.shields.io/badge/React-E10600?style=for-the-badge&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-E10600?style=for-the-badge&logo=angular&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E10600?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-E10600?style=for-the-badge&logo=python&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-E10600?style=for-the-badge&logo=openjdk&logoColor=000)
