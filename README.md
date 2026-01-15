@@ -26,7 +26,7 @@ atuando na construção de soluções **web modernas**, **APIs**, **bancos de da
 
 ---
 
-## ⭐ Alguns números do GitHub
+## ⭐ Alguns números do GitHub!
 
 <div align="center">
 
