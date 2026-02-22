@@ -1,32 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2500&pause=900&color=E10600&center=true&vCenter=true&width=1000&lines=EDUARDO+GOMES;FULLSTACK+DEVELOPER" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=150&section=header&text=Eduardo%20Gomes&fontSize=40&fontColor=ffffff" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=FULLSTACK+DEVELOPER;AI+INTEGRATION+SPECIALIST;SOFTWARE+ENGINEERING" />
 
 </div>
 
 ---
 
-# Olá, eu sou o <span style="color:#E10600">Eduardo Gomes</span>
+## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor FullStack**, com formação em **Análise e Desenvolvimento de Sistemas (FATEC)**,  
-atuando na construção de soluções **web modernas**, **APIs**, **bancos de dados** e **integrações com IA**.
+Sou Desenvolvedor FullStack formado em **Análise e Desenvolvimento de Sistemas (FATEC)**, com foco na construção de aplicações web escaláveis, APIs robustas e integrações com Inteligência Artificial.
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-![React](https://img.shields.io/badge/React-E10600?style=for-the-badge&logo=react&logoColor=000)
-![Angular](https://img.shields.io/badge/Angular-E10600?style=for-the-badge&logo=angular&logoColor=000)
-![Git](https://img.shields.io/badge/Git-E10600?style=for-the-badge&logo=git&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-E10600?style=for-the-badge&logo=typescript&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-E10600?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-E10600?style=for-the-badge&logo=python&logoColor=000)
-![Java](https://img.shields.io/badge/Java-E10600?style=for-the-badge&logo=openjdk&logoColor=000)
-![C](https://img.shields.io/badge/C-E10600?style=for-the-badge&logo=c&logoColor=000)
+Tenho interesse em arquitetura de software, performance, boas práticas de desenvolvimento e criação de soluções que gerem impacto real no negócio.
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,nodejs&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,linux&theme=dark" />
+
+</div>
+
+---
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eduardogomesDev21&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardogomesDev21&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-E10600?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=120&section=footer"/>
 
 </div>
