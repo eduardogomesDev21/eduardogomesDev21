@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=150&section=header&text=Eduardo%20Gomes&fontSize=40&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=FULLSTACK+DEVELOPER;AI+INTEGRATION+SPECIALIST;SOFTWARE+ENGINEERING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=FULLSTACK+DEVELOPER;SOFTWARE+ENGINEERING" />
 
 </div>
 
