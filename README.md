@@ -43,11 +43,11 @@ Tenho interesse em arquitetura de software, performance, boas práticas de desen
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/eduardo-gomes-8a684829a/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:eduardogmsnishida1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-E10600?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
