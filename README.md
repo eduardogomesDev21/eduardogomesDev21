@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor FullStack formado em Análise e Desenvolvimento de Sistemas (FATEC), com foco na criação de soluções voltadas à automação de processos, organização de dados e melhoria de fluxos operacionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas (FATEC), com foco na criação de soluções voltadas à automação de processos, organização de dados e melhoria de fluxos operacionais.
 
 Tenho experiência no desenvolvimento de aplicações web, APIs REST e sistemas que simulam cenários reais de negócio, como controle de processos, tarefas e prazos. Busco sempre construir soluções que reduzam tarefas manuais, aumentem a eficiência e gerem valor prático para o dia a dia das empresas.
 
