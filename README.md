@@ -29,6 +29,106 @@ Tenho interesse em arquitetura de software, integração de sistemas e uso de te
 </div>
 
 ---
+
+---
+
+# 🤖 Projetos de Automação e Engenharia de Software
+
+<table>
+<tr>
+<td width="50%">
+
+## ⚙️ AutoFlow Workflow
+
+Plataforma visual de automação de workflows inspirada em ferramentas como n8n e Zapier.
+
+### 🔹 Destaques
+- Canvas interativo para criação de fluxos
+- Execução de scripts Python personalizados
+- Logs em tempo real via WebSockets
+- Agendamento automático com Cron
+- Engine desacoplada para execução de workflows
+
+### 🛠️ Stack
+`React` `FastAPI` `Python` `WebSockets` `SQLAlchemy` `APScheduler`
+
+<a href="SEU_LINK_AQUI">
+<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📊 P&L Reconciliation Engine
+
+Motor de reconciliação financeira para validação automatizada de P&L entre sistemas Front Office e Back Office.
+
+### 🔹 Destaques
+- Processamento vetorizado com NumPy/Pandas
+- Classificação automática de risco
+- Geração de audit trail para compliance
+- Tratamento robusto de dados inconsistentes
+- Performance otimizada para grandes volumes
+
+### 🛠️ Stack
+`Python` `Pandas` `NumPy` `Logging`
+
+<a href="SEU_LINK_AQUI">
+<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🏢 Mini ERP
+
+Sistema web para gestão de processos, tarefas e clientes com foco em controle operacional.
+
+### 🔹 Destaques
+- Dashboard operacional em tempo real
+- Gestão de clientes, processos e tarefas
+- Timeline de auditoria automática
+- Relacionamentos 1:N entre entidades
+- Interface moderna em dark mode
+
+### 🛠️ Stack
+`React` `FastAPI` `SQLAlchemy` `SQLite`
+
+<a href="SEU_LINK_AQUI">
+<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🤖 Gerador Automático de Boletos
+
+Automação em Python para geração de boletos em lote utilizando Playwright.
+
+### 🔹 Destaques
+- Leitura automática via CSV
+- Automação web com Playwright
+- Exportação de PDFs e JSONs
+- Preenchimento automático de formulários
+- Organização estruturada de arquivos
+
+### 🛠️ Stack
+`Python` `Playwright` `CSV` `JSON`
+
+<a href="SEU_LINK_AQUI">
+<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
 ## 📊 Estatísticas GitHub
 
 <div align="center">
