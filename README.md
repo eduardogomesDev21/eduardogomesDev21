@@ -52,7 +52,7 @@ Plataforma visual de automação de workflows inspirada em ferramentas como n8n 
 ### 🛠️ Stack
 `React` `FastAPI` `Python` `WebSockets` `SQLAlchemy` `APScheduler`
 
-<a href="SEU_LINK_AQUI">
+<a href="https://github.com/eduardogomesDev21/AutoFlow_WorkFlow">
 <img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -74,7 +74,7 @@ Motor de reconciliação financeira para validação automatizada de P&L entre s
 ### 🛠️ Stack
 `Python` `Pandas` `NumPy` `Logging`
 
-<a href="SEU_LINK_AQUI">
+<a href="https://github.com/eduardogomesDev21/Automated-PeL-Reconciliation">
 <img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -98,7 +98,7 @@ Sistema web para gestão de processos, tarefas e clientes com foco em controle o
 ### 🛠️ Stack
 `React` `FastAPI` `SQLAlchemy` `SQLite`
 
-<a href="SEU_LINK_AQUI">
+<a href="https://github.com/eduardogomesDev21/Mini_ERP">
 <img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -120,7 +120,7 @@ Automação em Python para geração de boletos em lote utilizando Playwright.
 ### 🛠️ Stack
 `Python` `Playwright` `CSV` `JSON`
 
-<a href="SEU_LINK_AQUI">
+<a href="https://github.com/eduardogomesDev21/Sistema-de-RPA---Gerador-de-boletos">
 <img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
