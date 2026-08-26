@@ -34,7 +34,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack, integraÃ
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   
 ## ğŸ§  InsightFlow AI
 
