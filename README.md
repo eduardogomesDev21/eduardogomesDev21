@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=150&section=header&text=Eduardo%20Gomes&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3100F7&height=150&section=header&text=Eduardo%20Gomes&fontSize=40&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=FULLSTACK+DEVELOPER;SOFTWARE+ENGINEERING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=3100F7&center=true&vCenter=true&width=800&lines=FULLSTACK+DEVELOPER;SOFTWARE+ENGINEERING" />
 
 </div>
 
@@ -57,7 +57,7 @@ Plataforma de Business Intelligence com Inteligência Artificial que transforma 
 `React` `TypeScript` `FastAPI` `Python` `Pandas` `NumPy` `Gemini` `SQLite`
 
 <a href="https://github.com/eduardogomesDev21/InsightFlow-AI">
-<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver%20Projeto-3100F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -87,7 +87,7 @@ Sistema financeiro pessoal Full Stack para controle de receitas, despesas e acom
 `Java 21` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `React` `TypeScript`
 
 <a href="https://github.com/eduardogomesDev21/JAVA_Finan-as_Bank">
-<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver%20Projeto-3100F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -113,7 +113,7 @@ Plataforma visual de automação de workflows inspirada em ferramentas como n8n 
 `React` `FastAPI` `Python` `WebSockets` `SQLAlchemy` `APScheduler`
 
 <a href="https://github.com/eduardogomesDev21/AutoFlow_WorkFlow">
-<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver%20Projeto-3100F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -137,7 +137,7 @@ Motor de reconciliação financeira para validação automatizada de P&L entre s
 `Python` `Pandas` `NumPy` `Logging`
 
 <a href="https://github.com/eduardogomesDev21/Automated-PeL-Reconciliation">
-<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver%20Projeto-3100F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -163,7 +163,7 @@ Sistema web para gestão de processos, tarefas e clientes com foco em controle o
 `React` `FastAPI` `SQLAlchemy` `SQLite`
 
 <a href="https://github.com/eduardogomesDev21/Mini_ERP">
-<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver%20Projeto-3100F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -187,7 +187,7 @@ Automação em Python para geração de boletos em lote utilizando Playwright.
 `Python` `Playwright` `CSV` `JSON`
 
 <a href="https://github.com/eduardogomesDev21/Sistema-de-RPA---Gerador-de-boletos">
-<img src="https://img.shields.io/badge/Ver%20Projeto-E10600?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver%20Projeto-3100F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -201,11 +201,11 @@ Automação em Python para geração de boletos em lote utilizando Playwright.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/eduardo-gomes-8a684829a/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3100F7"/>
 </a>
 
 <a href="mailto:eduardogmsnishida1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-E10600?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-3100F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -214,6 +214,6 @@ Automação em Python para geração de boletos em lote utilizando Playwright.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3100F7&height=120&section=footer"/>
 
 </div>
